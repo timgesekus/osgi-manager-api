@@ -10,7 +10,7 @@
 	<artifactId>manager-api</artifactId>
 	<packaging>bundle</packaging>
 	<scm>
-		<developerConnection>scm:git:ssh://git@github.com:timgesekus/osgi-manager-api.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@github.com/timgesekus/osgi-manager-api.git</developerConnection>
 	</scm>
 	<build>
 		<plugins>
