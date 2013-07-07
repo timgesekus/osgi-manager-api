@@ -1,0 +1,2 @@
+Export-Package: net.gesekus.osgitest.managerapi
+Bundle-Name: Manager API
